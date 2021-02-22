@@ -2,3 +2,8 @@ p.box1 { border-style: dotted;
     background-color: #3d0099;
     color: #e6e600;
 }
+
+p.box6 { border-style: dotted;
+    background-color: crimson;
+    color:lightseagreen;
+ }
