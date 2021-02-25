@@ -3,6 +3,10 @@ p.box1 { border-style: dotted;
     color: #e6e600;
 }
 p.box2 { border-style: dotted;
+    background-color: goldenrod;
+    color: green;
+}
+p.box2 { border-style: dotted;
     background-color: #7fb3f7;
     color: #001aff;
 }
