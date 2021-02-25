@@ -10,3 +10,7 @@ p.box2 { border-style: dotted;
     background-color: #7fb3f7;
     color: #001aff;
 }
+p.box6 { border-style: dotted;
+    background-color: crimson;
+    color:lightseagreen;
+ }
